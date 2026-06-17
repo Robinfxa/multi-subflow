@@ -1,0 +1,12 @@
+{
+  "name": "multi-subflow",
+  "owner": { "name": "Robinfxa", "url": "https://github.com/Robinfxa" },
+  "plugins": [
+    {
+      "name": "multi-subflow",
+      "source": "./",
+      "description": "Fork-agent + file-lock IPC primitives for Claude Code subagent orchestration",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "multi-subflow",
+  "version": "0.1.0",
+  "description": "Two primitives for orchestrating Claude Code subagents: fork agents that inherit a mother's read context (zero re-read), and a 0-token file-lock IPC handshake for suspend/approve/wake + failure handling — no SendMessage, no hooks.",
+  "author": { "name": "Robinfxa", "url": "https://github.com/Robinfxa" },
+  "repository": "https://github.com/Robinfxa/multi-subflow",
+  "license": "MIT",
+  "keywords": ["claude-code","subagents","orchestration","fork","ipc","multi-agent","file-lock"]
+}
